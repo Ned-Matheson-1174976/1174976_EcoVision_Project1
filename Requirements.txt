@@ -1,0 +1,11 @@
+python: 3.12.10
+pandas: 3.0.3
+numpy: 2.4.5
+seaborn: 0.13.2
+matplotlib: 3.10.9
+scikit-learn: 1.8.0
+tensorflow: 2.21.0
+keras-tuner: 1.4.8
+scikeras: 0.13.0
+IPython: 9.13.0
+tabulate: 0.10.0
